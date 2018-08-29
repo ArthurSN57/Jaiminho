@@ -4,7 +4,7 @@
   "description": "\"# Jaiminho\"",
   "main": "jaiminho.js",
   "scripts": {
-    "start": "node start"
+    "start": "node ./jaiminho.js"
   },
   "repository": {
     "type": "git",
