@@ -1,4 +1,4 @@
-var Eris = require('eris');
+import Eris from 'eris';
 var bot = new Eris("NDg0MDIxNzI0NjM2MTE5MDUx.Dmb9KQ.1zmeF_y2WiJwQBh424f-sDQl9to");
 
 bot.on("ready", () =>{
